@@ -36,9 +36,7 @@ jobs:
       
     
       
-    # Generate  Javadoc
-    - name: Generate Javadoc
-      run: ./gradlew aggregateJavadocs
+
       
     
       
