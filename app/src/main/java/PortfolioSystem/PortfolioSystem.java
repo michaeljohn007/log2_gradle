@@ -32,7 +32,7 @@ public interface PortfolioSystem {
   boolean withdrawFunds(double amount);
 
   /**
-   * Record a purchase of the named asset if available funds >= the total value of the assets (stock
+   * Record a purchase of the named asset if available funds greater than or equal the total value of the assets (stock
    * or cryptocurrency) being purchased. The price paid should be the real live price of the asset.
    *
    * @param assetSymbol the name of the asset (stock symbol or cryptocurrency) to purchase
@@ -46,8 +46,7 @@ public interface PortfolioSystem {
    * we hold that asset. The sale price should be the real live price of the asset at the time of
    * sale retrieved from an appropriate web API. The revenue generated from the sale should be added
    * to the total funds available to the user.
-   * <p>
-   * Business logic: If we hold > 1 units of the specified asset (say 10 units of Microsoft stock
+   * Business logic: If we hold greater than 1 units of the specified asset (say 10 units of Microsoft stock
    * MSFT), and the parameter amount is greater than total units of the stock, we should sell the units that
    * maximise our profit. Remember some of the stock could have been purchased on different dates
    * and therefore have been purchased at different price points.
