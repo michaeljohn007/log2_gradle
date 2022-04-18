@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PopulateAssetQuoteSummaryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:18" hostname="DESKTOP-F5KTROU" time="0.002">
+  <properties/>
+  <testcase name="populateAssetQuoteSummaryTest_OneAssetOneHolding_SameDetailsReturned" classname="PopulateAssetQuoteSummaryTest" time="0.0"/>
+  <testcase name="populateAssetQuoteSummaryTest_OneAssetSeveralHolding_SummedDetailsReturned" classname="PopulateAssetQuoteSummaryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

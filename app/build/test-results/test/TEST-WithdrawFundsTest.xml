@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WithdrawFundsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:20" hostname="DESKTOP-F5KTROU" time="0.0">
+  <properties/>
+  <testcase name="withdrawFunds" classname="WithdrawFundsTest" time="0.0"/>
+  <system-out><![CDATA[You are a student you have no money!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

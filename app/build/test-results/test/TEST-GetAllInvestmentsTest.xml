@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GetAllInvestmentsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:14" hostname="DESKTOP-F5KTROU" time="0.847">
+  <properties/>
+  <testcase name="TestGetAllInvestments" classname="GetAllInvestmentsTest" time="0.847"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

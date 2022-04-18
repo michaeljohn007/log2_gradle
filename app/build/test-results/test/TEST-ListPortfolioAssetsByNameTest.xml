@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListPortfolioAssetsByNameTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:16" hostname="DESKTOP-F5KTROU" time="1.521">
+  <properties/>
+  <testcase name="listPortfolioAssetsByName_AssetNameInPortfolio_FormattedStringInResult" classname="ListPortfolioAssetsByNameTest" time="0.482"/>
+  <testcase name="listPortfolioAssetsByName_AssetNotInPortfolio_EmptyString" classname="ListPortfolioAssetsByNameTest" time="0.001"/>
+  <testcase name="listPortfolioAssetsByName_AssetSymbolInPortfolio_FormattedString" classname="ListPortfolioAssetsByNameTest" time="0.555"/>
+  <testcase name="listPortfolioAssetsByName_EmptyListPassedIn_EmptyString" classname="ListPortfolioAssetsByNameTest" time="0.001"/>
+  <testcase name="listPortfolioAssetsByName_MultipleAssetSymbolInPortfolio_FormattedString" classname="ListPortfolioAssetsByNameTest" time="0.482"/>
+  <system-out><![CDATA[
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

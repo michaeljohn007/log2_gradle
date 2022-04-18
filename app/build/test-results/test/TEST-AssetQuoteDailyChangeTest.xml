@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AssetQuoteDailyChangeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:14" hostname="DESKTOP-F5KTROU" time="0.003">
+  <properties/>
+  <testcase name="gainLossOnAsset_NoChangeValue" classname="AssetQuoteDailyChangeTest" time="0.001"/>
+  <testcase name="gainLossOnAsset_TestGainOf50" classname="AssetQuoteDailyChangeTest" time="0.001"/>
+  <testcase name="gainLossOnAsset_TestLossOf50" classname="AssetQuoteDailyChangeTest" time="0.0"/>
+  <testcase name="percentGainLossOnAsset_NoChangeValuePercent" classname="AssetQuoteDailyChangeTest" time="0.0"/>
+  <testcase name="percentGainLossOnAsset_TestGainOf50Percent" classname="AssetQuoteDailyChangeTest" time="0.0"/>
+  <testcase name="percentGainLossOnAsset_TestLossOf50Percent" classname="AssetQuoteDailyChangeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

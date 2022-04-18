@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TrendingAssetsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:19" hostname="DESKTOP-F5KTROU" time="0.781">
+  <properties/>
+  <testcase name="getTendingAsset_TendingAssetForGB_HasValues" classname="TrendingAssetsTest" time="0.212"/>
+  <testcase name="getTendingAsset_TendingAssetForIN_EmptyList" classname="TrendingAssetsTest" time="0.24"/>
+  <testcase name="getTendingAsset_TendingAssetForNotValidMarketCode_EmptyList" classname="TrendingAssetsTest" time="0.328"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

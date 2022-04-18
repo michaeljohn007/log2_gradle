@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPortfolioSystemOperations" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:19" hostname="DESKTOP-F5KTROU" time="0.461">
+  <properties/>
+  <testcase name="addFunds" classname="TestPortfolioSystemOperations" time="0.0"/>
+  <testcase name="getAssetInformation" classname="TestPortfolioSystemOperations" time="0.223"/>
+  <testcase name="getExchangeSummary" classname="TestPortfolioSystemOperations" time="0.237"/>
+  <testcase name="setStartingBalance" classname="TestPortfolioSystemOperations" time="0.0"/>
+  <testcase name="withdrawFunds" classname="TestPortfolioSystemOperations" time="0.0"/>
+  <system-out><![CDATA[Exchange Time Zone Name= America/New_York
+Full Exchange Name= SNP
+Symbol= ^GSPC
+Regular Market Price= 4,402.94
+Change in price since opening= 0.24%
+Closing price = 4,392.59
+You are a student you have no money!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PurchaseAssetMethodTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-18T17:42:18" hostname="DESKTOP-F5KTROU" time="0.886">
+  <properties/>
+  <testcase name="amountExeedingFunds_purchaseAsset" classname="PurchaseAssetMethodTest" time="0.255"/>
+  <testcase name="checkAssets1_purchaseAsset" classname="PurchaseAssetMethodTest" time="0.427"/>
+  <testcase name="checkAssets2_purchaseAsset" classname="PurchaseAssetMethodTest" time="0.203"/>
+  <system-out><![CDATA[You don't have enough funds to buy the assets!!!
+You successfully purchased assets!
+You successfully purchased assets!
+You successfully purchased assets!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
