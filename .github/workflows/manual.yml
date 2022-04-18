@@ -31,7 +31,7 @@ jobs:
     
       
     # Do a build scan
-    - name: Do a Build scan with Gradle
+    - name: Build scan with Gradle
       run: ./gradlew build --scan
       
     
